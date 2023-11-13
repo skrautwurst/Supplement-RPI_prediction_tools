@@ -678,30 +678,6 @@ stand alone
    </td>
   </tr>
   <tr>
-   <td>(3DCNN)
-   </td>
-   <td>Torng & Altman
-<p>
-<a href="https://doi.org/10.1093/bioinformatics/bty813">https://doi.org/10.1093/bioinformatics/bty813</a>
-   </td>
-   <td>2018
-   </td>
-   <td>53
-   </td>
-   <td><a href="https://simtk.org/projects/fscnn">https://simtk.org/projects/fscnn</a>
-<p>
-stand alone
-   </td>
-   <td>3D data set for proteins with ligands/functional sites
-   </td>
-   <td>structural visualization of likely important functional amino acid residues
-   </td>
-   <td>3D convolutional neural network
-<p>
-“functional site“ detection, not really RNA specific
-   </td>
-  </tr>
-  <tr>
    <td>iCapsule
    </td>
    <td>Shen et al.
@@ -904,28 +880,6 @@ web server
    </td>
   </tr>
   <tr>
-   <td>NUCPLOT
-   </td>
-   <td>Luscombe et al.
-<p>
-<a href="https://doi.org/10.1093/nar/25.24.4940">https://doi.org/10.1093/nar/25.24.4940</a>
-   </td>
-   <td>1997
-   </td>
-   <td>243
-   </td>
-   <td><a href="https://www.ebi.ac.uk/thornton-srv/software/NUCPLOT/">https://www.ebi.ac.uk/thornton-srv/software/NUCPLOT/</a>
-<p>
-stand alone
-   </td>
-   <td>determined 3D structure / PDB file
-   </td>
-   <td>
-   </td>
-   <td>focused on DNA-protein interaction
-   </td>
-  </tr>
-  <tr>
    <td>OPRA
    </td>
    <td>Pérez-Cano & Fernández-Recio
@@ -992,50 +946,6 @@ stand alone
    </td>
   </tr>
   <tr>
-   <td>iONMF
-   </td>
-   <td>Stražar et al.
-<p>
-<a href="https://doi.org/10.1093/bioinformatics/btw003">https://doi.org/10.1093/bioinformatics/btw003</a>
-   </td>
-   <td>2016
-   </td>
-   <td>117
-   </td>
-   <td><a href="https://github.com/mstrazar/iONMF">https://github.com/mstrazar/iONMF</a>
-<p>
-stand alone
-   </td>
-   <td>RNA-protein dataset (experimental)
-   </td>
-   <td>binding site motif
-   </td>
-   <td>RPI analysis is just one of the possible applications (not specific)
-   </td>
-  </tr>
-  <tr>
-   <td>DeeperBind
-   </td>
-   <td>Hassanzadeh & Wang
-<p>
-<a href="https://doi.org/10.1109/BIBM.2016.7822515">https://doi.org/10.1109/BIBM.2016.7822515</a>
-   </td>
-   <td>2016
-   </td>
-   <td>126
-   </td>
-   <td><a href="https://github.com/hassanzadeh/DeeperBind">https://github.com/hassanzadeh/DeeperBind</a>
-<p>
-stand alone
-   </td>
-   <td>
-   </td>
-   <td>binding site
-   </td>
-   <td>extension to DeepBind, focused on DNA-binding proteins not RNA
-   </td>
-  </tr>
-  <tr>
    <td>DLPRB
    </td>
    <td>Ben-Bassat et al.
@@ -1092,31 +1002,11 @@ stand alone
    </td>
    <td><a href="http://bioinfo.vanderbilt.edu/beRBP/predict.html">http://bioinfo.vanderbilt.edu/beRBP/predict.html</a>
    </td>
-   <td>
+   <td>RNA sequence(s) + PWM or sequence of RBP
    </td>
-   <td>Binding Estimation for human RNA-Binding Proteins
+   <td>RBPs binding positions in RNA sequence
    </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>Arpeggio
-   </td>
-   <td>Jubb et al.
-<p>
-<a href="https://doi.org/10.1016/j.jmb.2016.12.004">https://doi.org/10.1016/j.jmb.2016.12.004</a>
-   </td>
-   <td>2017
-   </td>
-   <td>305
-   </td>
-   <td><a href="http://biosig.unimelb.edu.au/arpeggioweb/">http://biosig.unimelb.edu.au/arpeggioweb/</a>
-   </td>
-   <td>
-   </td>
-   <td>
-   </td>
-   <td>calculate interactions between chains of PDB file
+   <td>limited to a trained selection of human RBPs
    </td>
   </tr>
 </table>
