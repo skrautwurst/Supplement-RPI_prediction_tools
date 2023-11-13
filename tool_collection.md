@@ -1004,7 +1004,7 @@ stand alone
    </td>
    <td>RNA sequence(s) + PWM or sequence of RBP
    </td>
-   <td>RBPs binding positions in RNA sequence
+   <td>RBP-binding sites/motifs in RNA sequence
    </td>
    <td>limited to a trained selection of human RBPs
    </td>
