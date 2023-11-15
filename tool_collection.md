@@ -40,7 +40,7 @@ Used review papers for tool gathering
    </td>
    <td>2011
    </td>
-   <td>399
+   <td>437
    </td>
    <td><a href="http://pridb.gdcb.iastate.edu/RPISeq/">http://pridb.gdcb.iastate.edu/RPISeq/</a>
 <p>
@@ -62,7 +62,7 @@ web server
    </td>
    <td>2018
    </td>
-   <td>15
+   <td>17
    </td>
    <td><a href="https://universe.bits-pilani.ac.in/goa/aduri/xRPI">https://universe.bits-pilani.ac.in/goa/aduri/xRPI</a>
 <p>
@@ -88,7 +88,7 @@ web server
    </td>
    <td>2021
    </td>
-   <td>325 (1333 on previous publication from 2015)
+   <td>605 (1552 on previous publication from 2015)
    </td>
    <td><a href="https://plip-tool.biotec.tu-dresden.de/plip-web/plip/index">https://plip-tool.biotec.tu-dresden.de/plip-web/plip/index</a>
 <p>
@@ -110,7 +110,7 @@ stand alone and web server
    </td>
    <td>2018
    </td>
-   <td>44
+   <td>60
    </td>
    <td><a href="https://pri-hotscore.labs.vu.nl/main.php">https://pri-hotscore.labs.vu.nl/main.php</a>
 <p>
@@ -132,7 +132,7 @@ web server
    </td>
    <td>2019
    </td>
-   <td>24
+   <td>27
    </td>
    <td><a href="http://predprba.denglab.org/">http://predprba.denglab.org/</a>
 <p>
@@ -154,7 +154,7 @@ web server
    </td>
    <td>2019
    </td>
-   <td>57
+   <td>74
    </td>
    <td><a href="http://www.cbrc.kaust.edu.sa/NucleicNet/">http://www.cbrc.kaust.edu.sa/NucleicNet/</a>
 <p>
@@ -184,7 +184,7 @@ logo: weblogo of RNA-protein complex
    </td>
    <td>2016
    </td>
-   <td>43
+   <td>49
    </td>
    <td><a href="http://www.rnainter.org/PRIdictor/">http://www.rnainter.org/PRIdictor/</a>
 <p>
@@ -232,7 +232,7 @@ web server
    </td>
    <td>2013
    </td>
-   <td>234
+   <td>254
    </td>
    <td><a href="http://service.tartaglialab.com/update_submission/423433/0cd5163900">http://service.tartaglialab.com/update_submission/423433/0cd5163900</a>
 <p>
@@ -254,7 +254,7 @@ web server
    </td>
    <td>2012
    </td>
-   <td>20
+   <td>21
    </td>
    <td><a href="http://www.facweb.iitkgp.ac.in/~rbahadur/prince/home.html">http://www.facweb.iitkgp.ac.in/~rbahadur/prince/home.html</a>
 <p>
@@ -276,7 +276,7 @@ web server
    </td>
    <td>2019
    </td>
-   <td>83
+   <td>97
    </td>
    <td><a href="http://biomine.cs.vcu.edu/servers/hybridNAP/">http://biomine.cs.vcu.edu/servers/hybridNAP/</a>
 <p>
@@ -298,7 +298,7 @@ web server
    </td>
    <td>2014
    </td>
-   <td>241
+   <td>261
    </td>
    <td><a href="https://github.com/dmaticzka/GraphProt">https://github.com/dmaticzka/GraphProt</a>
 <p>
@@ -322,7 +322,7 @@ stand alone
    </td>
    <td>2019
    </td>
-   <td>17
+   <td>18
    </td>
    <td><a href="https://github.com/NWPU-903PR/HOCNNLB">https://github.com/NWPU-903PR/HOCNNLB</a>
 <p>
@@ -344,7 +344,7 @@ stand alone
    </td>
    <td>2022
    </td>
-   <td>6
+   <td>15
    </td>
    <td><a href="https://github.com/kkyamada/bert-rbp">https://github.com/kkyamada/bert-rbp</a>
 <p>
@@ -366,7 +366,7 @@ stand alone
    </td>
    <td>2017
    </td>
-   <td>39
+   <td>40
    </td>
    <td><a href="http://denglab.org/PredRBR/">http://denglab.org/PredRBR/</a>
 <p>
@@ -388,7 +388,7 @@ stand alone
    </td>
    <td>2020
    </td>
-   <td>6
+   <td>10
    </td>
    <td><a href="http://www.rnabinding.com/PRIME-3D2D/">http://www.rnabinding.com/PRIME-3D2D/</a>
 <p>
@@ -410,7 +410,7 @@ web server
    </td>
    <td>2021
    </td>
-   <td>10
+   <td>15
    </td>
    <td><a href="https://github.com/ChunhuaLiLab/aPRbind">https://github.com/ChunhuaLiLab/aPRbind</a>
 <p>
@@ -432,7 +432,7 @@ stand alone
    </td>
    <td>2017
    </td>
-   <td>72
+   <td>82
    </td>
    <td><a href="http://rnabinding.com/RBPPred.html">http://rnabinding.com/RBPPred.html</a>
 <p>
@@ -454,7 +454,7 @@ stand alone
    </td>
    <td>2016
    </td>
-   <td>65
+   <td>74
    </td>
    <td><a href="http://rck.csail.mit.edu/">http://rck.csail.mit.edu/</a>
 <p>
@@ -476,7 +476,7 @@ stand alone
    </td>
    <td>2015
    </td>
-   <td>1762
+   <td>2356
    </td>
    <td><a href="https://meme-suite.org/meme/tools/meme">https://meme-suite.org/meme/tools/meme</a>
 <p>
@@ -502,7 +502,7 @@ add-on: MEMERIS
    </td>
    <td>2017
    </td>
-   <td>154
+   <td>174
    </td>
    <td><a href="http://biomine.cs.vcu.edu/servers/DRNApred/">http://biomine.cs.vcu.edu/servers/DRNApred/</a>
 <p>
@@ -524,7 +524,7 @@ web server
    </td>
    <td>2013
    </td>
-   <td>780
+   <td>880
    </td>
    <td><a href="https://zhanggroup.org/COACH/">https://zhanggroup.org/COACH/</a>
 <p>
@@ -554,7 +554,7 @@ NucBind
    </td>
    <td>2014
    </td>
-   <td>54
+   <td>62
    </td>
    <td><a href="http://sysimm.ifrec.osaka-u.ac.jp/aarna/">http://sysimm.ifrec.osaka-u.ac.jp/aarna/</a>
 <p>
@@ -576,7 +576,7 @@ web server
    </td>
    <td>2015
    </td>
-   <td>252
+   <td>273
    </td>
    <td><a href="https://github.com/thucombio/deepnet-rbp">https://github.com/thucombio/deepnet-rbp</a>
 <p>
@@ -620,7 +620,7 @@ stand alone
    </td>
    <td>2017
    </td>
-   <td>342
+   <td>442
    </td>
    <td><a href="https://playmolecule.com/deepsite/">https://playmolecule.com/deepsite/</a>
 <p>
@@ -642,7 +642,7 @@ web server
    </td>
    <td>2018
    </td>
-   <td>19
+   <td>21
    </td>
    <td><a href="https://ohlerlab.mdc-berlin.de/software/SSMART_137/">https://ohlerlab.mdc-berlin.de/software/SSMART_137/</a>
 <p>
@@ -664,7 +664,7 @@ stand alone
    </td>
    <td>2019
    </td>
-   <td>21
+   <td>22
    </td>
    <td><a href="https://github.com/suyufeng/ThermoNet">https://github.com/suyufeng/ThermoNet</a>
 <p>
@@ -686,7 +686,7 @@ stand alone
    </td>
    <td>2019
    </td>
-   <td>21
+   <td>24
    </td>
    <td><a href="https://github.com/naturomics/CapsNet-Tensorflow">https://github.com/naturomics/CapsNet-Tensorflow</a>
 <p>
@@ -708,7 +708,7 @@ stand alone
    </td>
    <td>2020
    </td>
-   <td>3
+   <td>4
    </td>
    <td><a href="https://github.com/syang11/ProbeRating">https://github.com/syang11/ProbeRating</a>
 <p>
@@ -730,7 +730,7 @@ stand alone
    </td>
    <td>2020
    </td>
-   <td>29
+   <td>34
    </td>
    <td><a href="https://github.com/HarveyYan/RNAonGraph">https://github.com/HarveyYan/RNAonGraph</a>
 <p>
@@ -752,7 +752,7 @@ stand alone
    </td>
    <td>2021
    </td>
-   <td>25
+   <td>50
    </td>
    <td><a href="http://www.csbio.sjtu.edu.cn/bioinf/GraphBind/">http://www.csbio.sjtu.edu.cn/bioinf/GraphBind/</a>
 <p>
@@ -774,7 +774,7 @@ web server and stand alone
    </td>
    <td>2020
    </td>
-   <td>50
+   <td>68
    </td>
    <td><a href="http://deepclip.compbio.sdu.dk">http://deepclip.compbio.sdu.dk</a>
 <p>
@@ -796,7 +796,7 @@ web server and stand alone
    </td>
    <td>2021
    </td>
-   <td>42
+   <td>62
    </td>
    <td><a href="http://prismnet.zhanglab.net/">http://prismnet.zhanglab.net/</a>
 <p>
@@ -822,7 +822,7 @@ stand alone
    </td>
    <td>2018
    </td>
-   <td>193
+   <td>219
    </td>
    <td><a href="https://github.com/xypan1232/iDeepS">https://github.com/xypan1232/iDeepS</a>
 <p>
@@ -844,7 +844,7 @@ stand alone
    </td>
    <td>2013
    </td>
-   <td>64
+   <td>65
    </td>
    <td><a href="http://biophy.hust.edu.cn/new/3dRPC/create">http://biophy.hust.edu.cn/new/3dRPC/create</a>
 <p>
@@ -866,7 +866,7 @@ web server
    </td>
    <td>2006
    </td>
-   <td>139
+   <td>142
    </td>
    <td><a href="http://cib.cf.ocha.ac.jp/KYG/">http://cib.cf.ocha.ac.jp/KYG/</a>
 <p>
@@ -888,7 +888,7 @@ web server
    </td>
    <td>2009
    </td>
-   <td>98
+   <td>102
    </td>
    <td><a href="https://life.bsc.es/pid/opra/default/index">https://life.bsc.es/pid/opra/default/index</a>
 <p>
@@ -910,7 +910,7 @@ web server
    </td>
    <td>2014
    </td>
-   <td>409
+   <td>460
    </td>
    <td><a href="http://rbpmap.technion.ac.il/index.html">http://rbpmap.technion.ac.il/index.html</a>
 <p>
@@ -932,7 +932,7 @@ web server and stand alone
    </td>
    <td>2016
    </td>
-   <td>110
+   <td>124
    </td>
    <td><a href="https://github.com/xypan1232/IPMiner">https://github.com/xypan1232/IPMiner</a>
 <p>
@@ -954,7 +954,7 @@ stand alone
    </td>
    <td>2018
    </td>
-   <td>64
+   <td>72
    </td>
    <td><a href="https://github.com/ilanbb/dlprb">https://github.com/ilanbb/dlprb</a>
 <p>
@@ -998,7 +998,7 @@ stand alone
    </td>
    <td>2019
    </td>
-   <td>33
+   <td>36
    </td>
    <td><a href="http://bioinfo.vanderbilt.edu/beRBP/predict.html">http://bioinfo.vanderbilt.edu/beRBP/predict.html</a>
    </td>
