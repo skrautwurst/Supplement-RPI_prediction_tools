@@ -20,7 +20,7 @@ Used review papers for tool gathering
    </td>
    <td><strong>Citations</strong>
 <p>
-<strong>(Google Scholar)</strong>
+<strong>(Google Scholar, Nov. 2023)</strong>
    </td>
    <td><strong>Link & access</strong>
    </td>
