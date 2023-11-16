@@ -672,7 +672,7 @@ stand alone
    </td>
    <td>CLIP dataset (RNA sequences)
    </td>
-   <td>
+   <td> binding intensity for the RNA
    </td>
    <td>sequence - (k-mer-)embedding convolutional neural network + thermodynamics of secondary structures
    </td>
