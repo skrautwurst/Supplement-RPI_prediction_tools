@@ -3,7 +3,7 @@ HTS prediction tools
 
 | Tool | Possible input | Is one of the four chosen examples available as a pre-trained model? | Evaluated in this study with (available) pre-trained model? | Guide tree category |
 |-:|-|-|-|-|
-BERT-RBP | HTS datasets | LARP7 is pre-trained | - | exp. dataset
+BERT-RBP | HTS datasets, RNA sequences | LARP7 is pre-trained | - | exp. dataset
 IPMiner | HTS datasets, RNA+protein sequences | no matching model | No, did not run because of dependency issues  | exp. dataset; RNA+protein sequence
 GraphProt | HTS datasets, RNA sequence | no matching model | - | exp. dataset; RNA sequence
 iDeepS | HTS datasets, RNA sequence | no matching model | - | exp. dataset; RNA sequence
