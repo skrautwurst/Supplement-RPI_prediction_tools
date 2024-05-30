@@ -11,6 +11,9 @@ This repository contains supplementary files and information for the publication
 `tool_evaluation.xlsx`  
     Evaluation information and results of the evaluated RPI prediction tools in our study.
 
+`tool_evaluation-score.md`  
+    Reasoning and information on the distribution of evaluation score points for all evaluated tools.  
+
 `evaluation_table.csv`  
     Evaluation result values from `tool_evaluation.xlsx`, as `csv` for further processing/plotting of the data (does not include post-processing potential).
 
