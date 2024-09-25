@@ -20,9 +20,11 @@ Used review papers for tool gathering
    </td>
    <td><strong>Citations</strong>
 <p>
-<strong>(Google Scholar, Nov. 2023)</strong>
+<strong>(Google Scholar, Sep 2024)</strong>
    </td>
-   <td><strong>Link & access</strong>
+   <td><strong>Link & format</strong>
+   </td>
+   <td><strong>Accessibility & licensing</strong>
    </td>
    <td><strong>Input</strong>
    </td>
@@ -40,11 +42,13 @@ Used review papers for tool gathering
    </td>
    <td>2011
    </td>
-   <td>437
+   <td>486
    </td>
    <td><a href="http://pridb.gdcb.iastate.edu/RPISeq/">http://pridb.gdcb.iastate.edu/RPISeq/</a>
 <p>
 web server
+   </td>
+   <td>freeware
    </td>
    <td>RNA and protein sequence
    </td>
@@ -62,7 +66,7 @@ web server
    </td>
    <td>2018
    </td>
-   <td>17
+   <td>22
    </td>
    <td><a href="https://universe.bits-pilani.ac.in/goa/aduri/xRPI">https://universe.bits-pilani.ac.in/goa/aduri/xRPI</a>
 <p>
@@ -71,6 +75,8 @@ stand alone
 <a href="http://xrpi.ddns.net/">http://xrpi.ddns.net/</a>
 <p>
 web server
+   </td>
+   <td>freeware
    </td>
    <td>RNA and protein sequence
    </td>
@@ -88,11 +94,13 @@ web server
    </td>
    <td>2021
    </td>
-   <td>605 (1552 on previous publication from 2015)
+   <td>1026 (1842 on previous publication from 2015)
    </td>
    <td><a href="https://plip-tool.biotec.tu-dresden.de/plip-web/plip/index">https://plip-tool.biotec.tu-dresden.de/plip-web/plip/index</a>
 <p>
 stand alone and web server
+   </td>
+   <td>freeware, GPL-2.0 license
    </td>
    <td>determined 3D structure / PDB file
    </td>
@@ -110,11 +118,13 @@ stand alone and web server
    </td>
    <td>2018
    </td>
-   <td>60
+   <td>73
    </td>
    <td><a href="https://pri-hotscore.labs.vu.nl/main.php">https://pri-hotscore.labs.vu.nl/main.php</a>
 <p>
 web server
+   </td>
+   <td>freeware
    </td>
    <td>determined 3D structure / PDB file of RP-complex
    </td>
@@ -132,11 +142,13 @@ web server
    </td>
    <td>2019
    </td>
-   <td>27
+   <td>34
    </td>
    <td><a href="http://predprba.denglab.org/">http://predprba.denglab.org/</a>
 <p>
 web server
+   </td>
+   <td>freeware
    </td>
    <td>determined 3D structure / PDB file
    </td>
@@ -154,15 +166,17 @@ web server
    </td>
    <td>2019
    </td>
-   <td>74
+   <td>95
    </td>
    <td><a href="http://www.cbrc.kaust.edu.sa/NucleicNet/">http://www.cbrc.kaust.edu.sa/NucleicNet/</a>
 <p>
 web server
 <p>
-<a href="https://github.com/jhmlam/NucleicNet/wiki">https://github.com/jhmlam/NucleicNet/wiki</a>
+<a href="https://github.com/jhmlam/NucleicNet/">https://github.com/jhmlam/NucleicNet/</a>
 <p>
 stand alone
+   </td>
+   <td>freeware, AGPL-3.0 license
    </td>
    <td>determined 3D structure / PDB file (protein or both)
    </td>
@@ -184,7 +198,7 @@ logo: weblogo of RNA-protein complex
    </td>
    <td>2016
    </td>
-   <td>49
+   <td>56
    </td>
    <td><a href="http://www.rnainter.org/PRIdictor/">http://www.rnainter.org/PRIdictor/</a>
 <p>
@@ -193,6 +207,8 @@ web server
 <a href="http://bclab.inha.ac.kr/pridictor/usage.html">http://bclab.inha.ac.kr/pridictor/usage.html</a>
 <p>
 web application
+   </td>
+   <td>freeware
    </td>
    <td>RNA and protein sequence
    </td>
@@ -210,11 +226,13 @@ web application
    </td>
    <td>2008
    </td>
-   <td>51
+   <td>52
    </td>
    <td><a href="http://bioinfo3d.cs.tau.ac.il/rsitedb/rsite_about.html">http://bioinfo3d.cs.tau.ac.il/rsitedb/rsite_about.html</a>
 <p>
 web server
+   </td>
+   <td>freeware
    </td>
    <td>determined 3D structure / PDB file
    </td>
@@ -232,11 +250,13 @@ web server
    </td>
    <td>2013
    </td>
-   <td>254
+   <td>272
    </td>
    <td><a href="http://service.tartaglialab.com/update_submission/423433/0cd5163900">http://service.tartaglialab.com/update_submission/423433/0cd5163900</a>
 <p>
 web server
+   </td>
+   <td>freeware, CC BY-NC-SA 4.0
    </td>
    <td>RNA and protein sequence
    </td>
@@ -254,11 +274,13 @@ web server
    </td>
    <td>2012
    </td>
-   <td>21
+   <td>23
    </td>
    <td><a href="http://www.facweb.iitkgp.ac.in/~rbahadur/prince/home.html">http://www.facweb.iitkgp.ac.in/~rbahadur/prince/home.html</a>
 <p>
 web server
+   </td>
+   <td>freeware
    </td>
    <td>determined 3D structure / PDB file
    </td>
@@ -276,11 +298,13 @@ web server
    </td>
    <td>2019
    </td>
-   <td>97
+   <td>111
    </td>
    <td><a href="http://biomine.cs.vcu.edu/servers/hybridNAP/">http://biomine.cs.vcu.edu/servers/hybridNAP/</a>
 <p>
 web server
+   </td>
+   <td>freeware, non-commercial
    </td>
    <td>protein sequence
    </td>
@@ -298,13 +322,15 @@ web server
    </td>
    <td>2014
    </td>
-   <td>261
+   <td>273
    </td>
    <td><a href="https://github.com/dmaticzka/GraphProt">https://github.com/dmaticzka/GraphProt</a>
 <p>
 <a href="http://www.bioinf.uni-freiburg.de/Software/GraphProt">http://www.bioinf.uni-freiburg.de/Software/GraphProt</a>
 <p>
 stand alone
+   </td>
+   <td>freeware, MIT license
    </td>
    <td>experimental datasets; RNA sequence
    </td>
@@ -322,11 +348,13 @@ stand alone
    </td>
    <td>2019
    </td>
-   <td>18
+   <td>20
    </td>
    <td><a href="https://github.com/NWPU-903PR/HOCNNLB">https://github.com/NWPU-903PR/HOCNNLB</a>
 <p>
 stand alone
+   </td>
+   <td>freeware, non-commercial
    </td>
    <td>lncRNA sequence dataset
    </td>
@@ -344,11 +372,13 @@ stand alone
    </td>
    <td>2022
    </td>
-   <td>15
+   <td>31
    </td>
    <td><a href="https://github.com/kkyamada/bert-rbp">https://github.com/kkyamada/bert-rbp</a>
 <p>
 stand alone
+   </td>
+   <td>freeware
    </td>
    <td>CLIP dataset (RNA sequences)
    </td>
@@ -366,11 +396,13 @@ stand alone
    </td>
    <td>2017
    </td>
-   <td>40
+   <td>43
    </td>
    <td><a href="http://denglab.org/PredRBR/">http://denglab.org/PredRBR/</a>
 <p>
 stand alone
+   </td>
+   <td>freeware
    </td>
    <td>determined 3D structure / PDB file (has to cover both protein and RNA)
    </td>
@@ -388,11 +420,13 @@ stand alone
    </td>
    <td>2020
    </td>
-   <td>10
+   <td>14
    </td>
    <td><a href="http://www.rnabinding.com/PRIME-3D2D/">http://www.rnabinding.com/PRIME-3D2D/</a>
 <p>
 web server
+   </td>
+   <td>freeware
    </td>
    <td>determined 3D structure / PDB file for protein and RNA each
    </td>
@@ -410,11 +444,13 @@ web server
    </td>
    <td>2021
    </td>
-   <td>15
+   <td>23
    </td>
    <td><a href="https://github.com/ChunhuaLiLab/aPRbind">https://github.com/ChunhuaLiLab/aPRbind</a>
 <p>
 stand alone
+   </td>
+   <td>freeware
    </td>
    <td>protein sequence
    </td>
@@ -432,11 +468,13 @@ stand alone
    </td>
    <td>2017
    </td>
-   <td>82
+   <td>95
    </td>
    <td><a href="http://rnabinding.com/RBPPred.html">http://rnabinding.com/RBPPred.html</a>
 <p>
 stand alone
+   </td>
+   <td>freeware
    </td>
    <td>protein sequence(s)
    </td>
@@ -454,11 +492,13 @@ stand alone
    </td>
    <td>2016
    </td>
-   <td>74
+   <td>79
    </td>
    <td><a href="http://rck.csail.mit.edu/">http://rck.csail.mit.edu/</a>
 <p>
 stand alone
+   </td>
+   <td>freeware
    </td>
    <td>RPI dataset: set of RNA sequences with estimated binding affinities + RNA secondary structure annotations of sequences
    </td>
@@ -476,11 +516,13 @@ stand alone
    </td>
    <td>2015
    </td>
-   <td>2356
+   <td>3255
    </td>
    <td><a href="https://meme-suite.org/meme/tools/meme">https://meme-suite.org/meme/tools/meme</a>
 <p>
 web server and stand alone
+   </td>
+   <td>freeware, limited non-commercial use license
    </td>
    <td>(one or) multiple sequences where common motif should be found
    </td>
@@ -502,11 +544,13 @@ add-on: MEMERIS
    </td>
    <td>2017
    </td>
-   <td>174
+   <td>204
    </td>
    <td><a href="http://biomine.cs.vcu.edu/servers/DRNApred/">http://biomine.cs.vcu.edu/servers/DRNApred/</a>
 <p>
 web server
+   </td>
+   <td>freeware, non-commercial
    </td>
    <td>protein sequence
    </td>
@@ -524,11 +568,13 @@ web server
    </td>
    <td>2013
    </td>
-   <td>880
+   <td>974
    </td>
    <td><a href="https://zhanggroup.org/COACH/">https://zhanggroup.org/COACH/</a>
 <p>
 web server
+   </td>
+   <td>freeware
    </td>
    <td>determined 3D structure / PDB file or protein sequence
    </td>
@@ -554,11 +600,13 @@ NucBind
    </td>
    <td>2014
    </td>
-   <td>62
+   <td>74
    </td>
    <td><a href="http://sysimm.ifrec.osaka-u.ac.jp/aarna/">http://sysimm.ifrec.osaka-u.ac.jp/aarna/</a>
 <p>
 web server
+   </td>
+   <td>freeware
    </td>
    <td>determined 3D structure / PDB file or protein sequence
    </td>
@@ -576,11 +624,13 @@ web server
    </td>
    <td>2015
    </td>
-   <td>273
+   <td>301
    </td>
    <td><a href="https://github.com/thucombio/deepnet-rbp">https://github.com/thucombio/deepnet-rbp</a>
 <p>
 stand alone
+   </td>
+   <td>freeware, limited use license
    </td>
    <td>CLIP dataset (RNA sequences)
    </td>
@@ -604,6 +654,8 @@ stand alone
 <p>
 stand alone
    </td>
+   <td>freeware
+   </td>
    <td>RNA-protein data set (experimental)
    </td>
    <td>binding site preferences
@@ -620,11 +672,13 @@ stand alone
    </td>
    <td>2017
    </td>
-   <td>442
+   <td>582
    </td>
    <td><a href="https://playmolecule.com/deepsite/">https://playmolecule.com/deepsite/</a>
 <p>
 web server
+   </td>
+   <td>freeware
    </td>
    <td>determined 3D structure / PDB file
    </td>
@@ -642,11 +696,13 @@ web server
    </td>
    <td>2018
    </td>
-   <td>21
+   <td>23
    </td>
    <td><a href="https://ohlerlab.mdc-berlin.de/software/SSMART_137/">https://ohlerlab.mdc-berlin.de/software/SSMART_137/</a>
 <p>
 stand alone
+   </td>
+   <td>freeware
    </td>
    <td>RNA-protein data set (experimental)
    </td>
@@ -664,11 +720,13 @@ stand alone
    </td>
    <td>2019
    </td>
-   <td>22
+   <td>25
    </td>
    <td><a href="https://github.com/suyufeng/ThermoNet">https://github.com/suyufeng/ThermoNet</a>
 <p>
 stand alone
+   </td>
+   <td>freeware, limited use license
    </td>
    <td>CLIP dataset (RNA sequences)
    </td>
@@ -686,11 +744,13 @@ stand alone
    </td>
    <td>2019
    </td>
-   <td>24
+   <td>25
    </td>
    <td><a href="https://github.com/naturomics/CapsNet-Tensorflow">https://github.com/naturomics/CapsNet-Tensorflow</a>
 <p>
 stand alone
+   </td>
+   <td>freeware, Apache-2.0 license
    </td>
    <td>RNA-protein data set (experimental)
    </td>
@@ -708,11 +768,13 @@ stand alone
    </td>
    <td>2020
    </td>
-   <td>4
+   <td>8
    </td>
    <td><a href="https://github.com/syang11/ProbeRating">https://github.com/syang11/ProbeRating</a>
 <p>
 stand alone
+   </td>
+   <td>freeware, MIT license
    </td>
    <td>RNA-protein data set
    </td>
@@ -730,11 +792,13 @@ stand alone
    </td>
    <td>2020
    </td>
-   <td>34
+   <td>40
    </td>
    <td><a href="https://github.com/HarveyYan/RNAonGraph">https://github.com/HarveyYan/RNAonGraph</a>
 <p>
 stand alone
+   </td>
+   <td>freeware, MIT license
    </td>
    <td>CLIP dataset (RNA sequences)
    </td>
@@ -752,11 +816,13 @@ stand alone
    </td>
    <td>2021
    </td>
-   <td>50
+   <td>87
    </td>
    <td><a href="http://www.csbio.sjtu.edu.cn/bioinf/GraphBind/">http://www.csbio.sjtu.edu.cn/bioinf/GraphBind/</a>
 <p>
 web server and stand alone
+   </td>
+   <td>freeware, GPLv3.0, CC BY 4.0
    </td>
    <td>determined 3D structure / PDB file (protein)
    </td>
@@ -774,11 +840,17 @@ web server and stand alone
    </td>
    <td>2020
    </td>
-   <td>68
+   <td>83
    </td>
    <td><a href="http://deepclip.compbio.sdu.dk">http://deepclip.compbio.sdu.dk</a>
 <p>
-web server and stand alone
+web server
+<p>
+<a href="https://github.com/deepclip/deepclip">https://github.com/deepclip/deepclip</a>
+<p>
+stand alone
+   </td>
+   <td>freeware, MIT license
    </td>
    <td>CLIP datasets; RNA sequence
    </td>
@@ -796,7 +868,7 @@ web server and stand alone
    </td>
    <td>2021
    </td>
-   <td>62
+   <td>86
    </td>
    <td><a href="http://prismnet.zhanglab.net/">http://prismnet.zhanglab.net/</a>
 <p>
@@ -805,6 +877,8 @@ web server
 <a href="https://github.com/kuixu/PrismNet">https://github.com/kuixu/PrismNet</a>
 <p>
 stand alone
+   </td>
+   <td>freeware, MIT license
    </td>
    <td>RNA-protein data set (experimental)
    </td>
@@ -822,11 +896,13 @@ stand alone
    </td>
    <td>2018
    </td>
-   <td>219
+   <td>249
    </td>
    <td><a href="https://github.com/xypan1232/iDeepS">https://github.com/xypan1232/iDeepS</a>
 <p>
 stand alone
+   </td>
+   <td>freeware, CC0 1.0
    </td>
    <td>RNA-protein data set (experimental) / RNA sequence (prediction)
    </td>
@@ -844,11 +920,13 @@ stand alone
    </td>
    <td>2013
    </td>
-   <td>65
+   <td>71
    </td>
    <td><a href="http://biophy.hust.edu.cn/new/3dRPC/create">http://biophy.hust.edu.cn/new/3dRPC/create</a>
 <p>
 web server
+   </td>
+   <td>freeware, non-commercial
    </td>
    <td>determined 3D structure / PDB file for protein and RNA each
    </td>
@@ -866,11 +944,13 @@ web server
    </td>
    <td>2006
    </td>
-   <td>142
+   <td>147
    </td>
    <td><a href="http://cib.cf.ocha.ac.jp/KYG/">http://cib.cf.ocha.ac.jp/KYG/</a>
 <p>
 web server
+   </td>
+   <td>freeware
    </td>
    <td>determined 3D structure / PDB file (protein) + MSA (depending on used method)
    </td>
@@ -888,11 +968,13 @@ web server
    </td>
    <td>2009
    </td>
-   <td>102
+   <td>106
    </td>
    <td><a href="https://life.bsc.es/pid/opra/default/index">https://life.bsc.es/pid/opra/default/index</a>
 <p>
 web server
+   </td>
+   <td>freeware, academic access only
    </td>
    <td>determined 3D structure / PDB file
    </td>
@@ -910,11 +992,13 @@ web server
    </td>
    <td>2014
    </td>
-   <td>460
+   <td>510
    </td>
    <td><a href="http://rbpmap.technion.ac.il/index.html">http://rbpmap.technion.ac.il/index.html</a>
 <p>
 web server and stand alone
+   </td>
+   <td>freeware
    </td>
    <td>RNA sequence(s) and an RBP motif
    </td>
@@ -932,11 +1016,13 @@ web server and stand alone
    </td>
    <td>2016
    </td>
-   <td>124
+   <td>138
    </td>
    <td><a href="https://github.com/xypan1232/IPMiner">https://github.com/xypan1232/IPMiner</a>
 <p>
 stand alone
+   </td>
+   <td>freeware, CC0 1.0
    </td>
    <td>RNA-protein dataset; RNA and protein sequences
    </td>
@@ -954,11 +1040,13 @@ stand alone
    </td>
    <td>2018
    </td>
-   <td>72
+   <td>87
    </td>
    <td><a href="https://github.com/ilanbb/dlprb">https://github.com/ilanbb/dlprb</a>
 <p>
 stand alone
+   </td>
+   <td>freeware, MIT license
    </td>
    <td>RNA-protein dataset (experimental), i.e.: RNA sequence file with binding affinity + file with structural information (vector of 5 possible structural elements for each position)
    </td>
@@ -976,11 +1064,13 @@ stand alone
    </td>
    <td>2017
    </td>
-   <td>39
+   <td>40
    </td>
    <td><a href="https://github.molgen.mpg.de/heller/ssHMM">https://github.molgen.mpg.de/heller/ssHMM</a>
 <p>
 stand alone
+   </td>
+   <td>freeware, GPL-3.0 license
    </td>
    <td>RNA-binding protein data (e.g. CLIP-Seq)
    </td>
@@ -998,9 +1088,11 @@ stand alone
    </td>
    <td>2019
    </td>
-   <td>36
+   <td>39
    </td>
    <td><a href="http://bioinfo.vanderbilt.edu/beRBP/predict.html">http://bioinfo.vanderbilt.edu/beRBP/predict.html</a>
+   </td>
+   <td>freeware
    </td>
    <td>RNA sequence(s) + PWM or sequence of RBP
    </td>
