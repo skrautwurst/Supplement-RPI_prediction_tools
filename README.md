@@ -1,6 +1,6 @@
 #### RNA-protein interaction predictions without high-throughput data: an overview and benchmark of *in silico* tools
 
-This repository contains supplementary files and information for the publication Krautwurst and Lamkiewicz (2024, https://doi.org/10.1101/2024.06.24.600368).
+This repository contains supplementary files and information for the publication Krautwurst and Lamkiewicz (2024), https://doi.org/10.1016/j.csbj.2024.11.015.
 
 `tool_collection.md`  
     Collection of all RPI prediction tools gathered during initial literature research. Contains basic information on each tool and their availability status.
